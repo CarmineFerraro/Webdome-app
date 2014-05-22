@@ -42,8 +42,8 @@ else if (isset($_GET['errore']) == 'error')
         <input type="submit" class="button big blue" value="Login!!!">
         </fieldset>
         <a href="mailto:carmine.ferraro1@students.uniparthenope.it" > <p align="center"><b><font style="width: 1000px; left:-70%;top:130%;position: absolute;text-decoration: none; color: blue;font-family: Papyrus; font-size:15px; line-height: 20px; letter-spacing: 1">
-            WebApp realizzata per l'esame di Tecnologie Web dell'universita' Parthenope di Napoli dal Team SimplyLife <br>-Ferraro Carmine-Colucci Emanuele-De Rosa Fabio-
-            <br> Tutto il codice e la documentazione sono Open-Source! </font></b></p></a>
+            Web app create for the Web tecnology's exam of University Parthenope <br>-Ferraro Carmine-Colucci Emanuele-De Rosa Fabio-
+            <br> The code is open</font></b></p></a>
     </form>
 </body>
 </html>
