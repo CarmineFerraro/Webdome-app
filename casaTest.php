@@ -103,7 +103,7 @@ function CreateXmlHttpObject(handler)
 	}
 	catch(e)
 	{
-	   alert("Errore: Il suo browser non supporta questo programma!");
+	   alert("Error: Your Browser don't support the app!");
 	   objXmlHttp = null;
 	}
    }
@@ -117,7 +117,7 @@ function CreateXmlHttpObject(handler)
 	}
 	catch(e)
 	{
-	   alert("Errore: Il suo browser non supporta questo programma!");
+	   alert("Error: Your Browser don't support the app!");
 	   objXmlHttp = null;
 	} 
    }
@@ -305,8 +305,8 @@ function porta()
      <div> <input type="button" class="button small blue rounded"id="cond" style="position: absolute;width:150px ; height: 30px;" value="Turn on conditioner" onClick="javascript:btnCond();"></div>
     <div id="webcam"> <img src="<?php echo $_SESSION['hostWebcam']; ?>"/></div>
  <a href="mailto:carmine.ferraro1@students.uniparthenope.it" > <p align="center"><b><font style="width: 1000px; top:105%;left: -20%;position: absolute;text-decoration: none; color: blue;font-family: Papyrus; font-size:15px; line-height: 20px; letter-spacing: 1">
-            WebApp realizzata per l'esame di Tecnologie Web dell'universita' Parthenope di Napoli dal Team SimplyLife <br>-Ferraro Carmine-Colucci Emanuele-De Rosa Fabio-
-            <br> Tutto il codice e la documentazione sono Open-Source! </font></b></p></a>   
+            Web App created for the Web tecnology's exam of University Parthenope  <br>-Ferraro Carmine-Colucci Emanuele-De Rosa Fabio-
+            <br> The code is open </font></b></p></a>   
  </div>
 </body>
 </html>
